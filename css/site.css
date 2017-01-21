@@ -1,0 +1,31 @@
+@font-face {
+	font-family: bane;
+	src: url('bane.ttf');
+}
+
+body {
+	background: #000000;
+	/*
+background-image: url('/img/CMR1_logo.png');
+	background-position: center bottom;
+	background-repeat: no-repeat;
+*/
+}
+
+img {
+	width: 100%;
+	max-width: 620px;
+}
+
+h1, p {
+	font-family: bane;
+	color: green;
+}
+
+h1 {
+	font-size: 75px;
+}
+
+p {
+	font-size: 20px;
+}
