@@ -12,6 +12,16 @@ background-image: url('/img/CMR1_logo.png');
 */
 }
 
+body.forum {
+/*background-color: #2a2122;*/
+background-color: rgb(42,33,34);
+background-image: url("../img/Bane-Symbol.jpg");
+background-position: top center;
+background-size: 50%;
+background-repeat: no-repeat;
+}
+
+
 img {
 	width: 100%;
 	max-width: 620px;
