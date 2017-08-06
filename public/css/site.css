@@ -1,6 +1,6 @@
 @font-face {
-	font-family: bane;
-	src: url('bane.ttf');
+	font-family: "bane";
+	src: url('bane.ttf') format('truetype');
 }
 
 body {
