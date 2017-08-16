@@ -1,7 +1,8 @@
-@font-face {
+/* @font-face {
 	font-family: "bane";
+	font-style: italic;
 	src: url('bane.ttf') format('truetype');
-}
+} */
 
 body {
 	background: #000000;
@@ -28,7 +29,8 @@ img {
 }
 
 h1, p {
-	font-family: bane;
+	font-family: "Comic Sans MS", bold, sans-serif;
+	font-style: italic;
 	color: green;
 }
 
