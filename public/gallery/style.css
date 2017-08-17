@@ -1,5 +1,5 @@
 body {
-    background-image: url('images/bane-comics-wallpaper.jpg');
+    background-image: url('images/bane-batman-hd-wp.jpg');
     background-size: contain;
     background-attachment: fixed;
     background-repeat: no-repeat;
@@ -16,6 +16,7 @@ header {
 
 h1 {
     font-family: 'Audiowide';
+    text-shadow: 4px 4px 2px red;
     font-size: 100px;
     font-style: italic;
     color: green;
