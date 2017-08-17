@@ -18,12 +18,12 @@ h1 {
 .button {
     color: black;
 	border-radius: 15px;
-	padding: 10px;
+	padding: 20px;
 	background-color: red;
 	text-align: center;
 	font-size: 20px;
 	font-weight: 200;
-    font-family: "Comic Sans MS", bold, sans-serif;
+    font-family: 'Audiowide';
     font-style: italic;
     margin-top: 80px;
 }
