@@ -1,5 +1,6 @@
 body {
-    font-family: "Comic Sans MS", bold, sans-serif;
+    /* font-family: "Comic Sans MS", bold, sans-serif; */
+    font-family: 'Audiowide';
     padding: 1rem;
     max-width: 600px;
     background-color: black;
